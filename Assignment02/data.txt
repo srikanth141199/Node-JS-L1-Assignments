@@ -1,0 +1,9 @@
+This is data File.
+
+5 Key Points About Node.js
+
+1. Node.js is an open-source, cross-platform runtime environment for executing JavaScript code outside of a web browser.
+2. It is built on top of the V8 JavaScript engine, making it fast and efficient.
+3. Node.js allows developers to use JavaScript to build server-side applications, command-line tools, and other types of applications that run on a computer's operating system.
+4. It comes with a rich standard library and a large ecosystem of third-party packages available through the Node Package Manager (NPM).
+5. Node.js is commonly used for building web applications, such as APIs, web servers, and real-time applications, but can also be used for a wide range of other tasks, such as building command-line tools, desktop applications, and IoT devices.
